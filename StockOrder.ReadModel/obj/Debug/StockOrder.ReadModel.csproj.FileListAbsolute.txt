@@ -1,0 +1,5 @@
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.ReadModel\bin\Debug\StockOrder.ReadModel.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.ReadModel\bin\Debug\StockOrder.ReadModel.pdb
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.ReadModel\obj\Debug\StockOrder.ReadModel.csprojResolveAssemblyReference.cache
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.ReadModel\obj\Debug\StockOrder.ReadModel.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.ReadModel\obj\Debug\StockOrder.ReadModel.pdb

@@ -1,0 +1,1 @@
+c:\users\pnaida\documents\visual studio 2015\Projects\TestNcqrs\TestNcqrs\bin\Debug\TestNcqrs.exe.config

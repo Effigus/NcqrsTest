@@ -1,0 +1,11 @@
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\StockOrder.Commands.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\StockOrder.Commands.pdb
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\obj\Debug\StockOrder.Commands.csprojResolveAssemblyReference.cache
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\obj\Debug\StockOrder.Commands.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\obj\Debug\StockOrder.Commands.pdb
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\log4net.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\Ncqrs.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\log4net.xml
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,7 @@
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Tests\bin\Debug\StockOrder.Tests.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Tests\bin\Debug\StockOrder.Tests.pdb
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Tests\obj\Debug\StockOrder.Tests.csprojResolveAssemblyReference.cache
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Tests\obj\Debug\StockOrder.Tests.dll
+C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Tests\obj\Debug\StockOrder.Tests.pdb
