@@ -1,12 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace StockOrder.Commands
+﻿namespace StockOrder.Commands
 {
-    class DeactivateItem
+    using System;
+
+    using Ncqrs.Commanding;
+    using Ncqrs.Commanding.CommandExecution.Mapping.Attributes;
+
+    using StockOrder.Domain;
+
+    [MapsToAggregateRootMethod(typeof(StockItem), "DeactivateItem")]
+    public class DeactivateItem : CommandBase
     {
+        [AggregateRootId]
+        public Guid ItemId
+        {
+            get;
+            set;
+        }
     }
 }

@@ -9,3 +9,18 @@ C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Comma
 C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\log4net.xml
 C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.Commands\bin\Debug\Newtonsoft.Json.xml
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\StockOrder.Commands.dll
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\StockOrder.Commands.pdb
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\log4net.dll
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\Ncqrs.dll
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\Newtonsoft.Json.dll
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\log4net.xml
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\Newtonsoft.Json.pdb
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\Newtonsoft.Json.xml
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\obj\Debug\StockOrder.Commands.csprojResolveAssemblyReference.cache
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\obj\Debug\StockOrder.Commands.dll
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\obj\Debug\StockOrder.Commands.pdb
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\StockOrder.Domain.dll
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\StockOrder.Events.dll
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\StockOrder.Domain.pdb
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.Commands\bin\Debug\StockOrder.Events.pdb

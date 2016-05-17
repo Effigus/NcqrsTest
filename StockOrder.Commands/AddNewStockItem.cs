@@ -4,13 +4,11 @@
     using Ncqrs.Commanding;
     using Ncqrs.Commanding.CommandExecution.Mapping.Attributes;
 
-    [MapsToAggregateRootConstructor("StockOrder.Domain.StockItem, StockOrder.Domain")]
+    using StockOrder.Domain;
+
+    [MapsToAggregateRootConstructor(typeof(StockItem))]
     public class AddNewStockItem : CommandBase
     {
-        [AggregateRootId]
-        public Guid ItemId { get; set; }
-        public string ItemName { get; set; }
-
         public AddNewStockItem()
         {
         }
@@ -19,6 +17,19 @@
         {
             this.ItemId = itemId;
             this.ItemName = itemName;
+        }
+
+        [AggregateRootId]
+        public Guid ItemId
+        {
+            get;
+            set;
+        }
+
+        public string ItemName
+        {
+            get;
+            set;
         }
     }
 }

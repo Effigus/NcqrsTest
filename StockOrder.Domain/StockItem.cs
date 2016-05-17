@@ -1,9 +1,9 @@
 ﻿namespace StockOrder.Domain
 {
     using System;
+    using Events;
     using Ncqrs;
     using Ncqrs.Domain;
-    using Events;
 
     public class StockItem : AggregateRootMappedByConvention
     {
@@ -17,7 +17,7 @@
         {
             var clock = NcqrsEnvironment.Get<IClock>();
 
-            ApplyEvent(new NewStockItemAdded
+            this.ApplyEvent(new NewStockItemAdded
                            {
                                ItemId = itemId,
                                CreatedOn = clock.UtcNow(),
@@ -25,9 +25,9 @@
                            });
         }
 
-        public void ChangeTitle(String newTitle)
+        public void ChangeTitle(string newTitle)
         {
-            ApplyEvent(new StockItemTitleChanged
+            this.ApplyEvent(new StockItemTitleChanged
                            {
                                NewTitle = newTitle
                            });
@@ -35,12 +35,12 @@
 
         public void DeactivateItem()
         {
-            ApplyEvent(new StockItemDeactivated());
+            this.ApplyEvent(new StockItemDeactivated());
         }
 
         public void IncreaseStockAmount(int addedQuantity)
         {
-            ApplyEvent(new StockItemAmountIncreased
+            this.ApplyEvent(new StockItemAmountIncreased
                            {
                                AddedAmount = addedQuantity
                            });
@@ -48,7 +48,7 @@
 
         public void DecreaseStockAmount(int substractedQuantity)
         {
-            ApplyEvent(new StockItemAmountDecreased
+            this.ApplyEvent(new StockItemAmountDecreased
             {
                 SubstractedAmount = substractedQuantity
             });
@@ -64,8 +64,10 @@
 
         protected void OnStockItemTitleChanged(StockItemTitleChanged e)
         {
-            if(this.isActive)
-            this.title = e.NewTitle;
+            if (this.isActive)
+            {
+                this.title = e.NewTitle;
+            }
         }
 
         protected void OnStockItemDeactivated(StockItemDeactivated e)
@@ -76,14 +78,18 @@
 
         protected void OnStockItemAmountIncreased(StockItemAmountIncreased e)
         {
-            if(this.isActive)
-            this.stockAmount += e.AddedAmount;
+            if (this.isActive)
+            {
+                this.stockAmount += e.AddedAmount;
+            }
         }
 
         protected void OnStockItemAmountIncreased(StockItemAmountDecreased e)
         {
-            if(this.isActive)
-            this.stockAmount += e.SubstractedAmount;
+            if (this.isActive)
+            {
+                this.stockAmount += e.SubstractedAmount;
+            }
         }
     }
 }

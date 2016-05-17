@@ -3,3 +3,8 @@ C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.ReadM
 C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.ReadModel\obj\Debug\StockOrder.ReadModel.csprojResolveAssemblyReference.cache
 C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.ReadModel\obj\Debug\StockOrder.ReadModel.dll
 C:\Users\pnaida\Documents\Visual Studio 2015\Projects\TestNcqrs\StockOrder.ReadModel\obj\Debug\StockOrder.ReadModel.pdb
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.ReadModel\bin\Debug\StockOrder.ReadModel.dll
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.ReadModel\bin\Debug\StockOrder.ReadModel.pdb
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.ReadModel\obj\Debug\StockOrder.ReadModel.csprojResolveAssemblyReference.cache
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.ReadModel\obj\Debug\StockOrder.ReadModel.dll
+C:\workrepos\NcqrsTest\NcqrsTest\StockOrder.ReadModel\obj\Debug\StockOrder.ReadModel.pdb
