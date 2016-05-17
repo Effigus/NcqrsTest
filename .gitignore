@@ -1,0 +1,45 @@
+# Standard VS.NET
+obj
+bin
+StockOrder.Commands\bin
+StockOrder.Commands\obj
+StockOrder.Domain\bin
+StockOrder.Domain\obj
+StockOrder.EventBus\bin
+StockOrder.EventBus\obj
+StockOrder.Events\bin
+StockOrder.Events\obj
+StockOrder.ReadModel\bin
+StockOrder.ReadModel\obj
+StockOrder.Tests\bin
+StockOrder.Tests\obj
+StockOrder.WebSite\bin
+StockOrder.WebSite\obj
+StockOrder.WebSite.Tests\bin
+StockOrder.WebSite.Tests\obj
+*.csproj.user
+*.suo
+TestResult.xml
+
+# Resharper
+*ReSharper*
+*resharper*
+*.cache
+
+# Other useful stuff
+* Thumbs.db
+*.bak
+*.cache
+*.log
+*.swp
+*.user
+*.DS_Store
+# Merge stuff
+*.orig
+*.orig
+
+# Mighty Moose
+*.bin
+
+#dotCover
+*.dotCover
