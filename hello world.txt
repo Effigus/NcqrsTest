@@ -2,4 +2,6 @@
 <body>
 <div/>
 </body>
+<div>
+</div>
 </html>
